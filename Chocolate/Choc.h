@@ -1,1 +1,1 @@
-void favourite_choc(std::string name, std::string choc = "Maltesers");
+void favouriteChoc(std::string name, std::string choc = "Maltesers");
