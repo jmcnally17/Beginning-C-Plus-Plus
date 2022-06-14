@@ -10,3 +10,4 @@ This is a set of simple programs I've made while working through the Codecadamy 
 - VectorOfNumbers: a simple use of a vector
 - Chocolate: header file with two .cpp files
 - Song: a class
+- Macro: simple function that uses a macro
