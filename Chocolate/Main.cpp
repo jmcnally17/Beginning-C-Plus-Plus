@@ -1,7 +1,8 @@
 #include <iostream>
 #include "Choc.h"
 
-int main() {
+int main()
+{
   favouriteChoc("Joe");
   favouriteChoc("Tom", "Galaxy");
 }
